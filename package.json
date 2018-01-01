@@ -1,0 +1,14 @@
+{
+  "name": "spotifyNowPlaying",
+  "version": "1.0.0",
+  "description": "a simple app that forwards spotify now playing to last.fm",
+  "main": "index.js",
+  "author": "Chris Barry <me@chrisb.xyz>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "lastfm-njs": "^1.0.0",
+    "server": "^1.0.15",
+    "spotify-web-api-node": "^2.5.0"
+  }
+}
